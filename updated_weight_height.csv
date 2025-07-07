@@ -1,0 +1,11 @@
+Name,Age,Gender,Height_cm,Weight_kg,BMI,Risk
+Alice,22,Female,165,55,20.202020202020204,Lower risk
+Bob,25,Male,175,72,23.510204081632654,Lower risk
+Charlie,20,Male,168,65,23.030045351473927,Lower risk
+Diana,23,Female,160,50,19.531249999999996,Lower risk
+Ethan,24,Male,180,78,24.074074074074073,Lower risk
+Fiona,21,Female,158,48,19.227687870533565,Lower risk
+George,26,Male,182,82,24.755464315903875,Lower risk
+Hannah,22,Female,162,53,20.195092211553114,Lower risk
+Ian,23,Male,170,70,24.221453287197235,Lower risk
+Jenny,24,Female,167,58,20.796729893506402,Lower risk
